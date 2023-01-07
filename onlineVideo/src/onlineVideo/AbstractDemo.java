@@ -12,7 +12,7 @@ abstract class Human {
 class Man extends Human{ // Man class is called as concrete class Human is abstract class
 	public void eat() { 
 		
-	}
+	}	
 	
 	public void walk() {
 		
